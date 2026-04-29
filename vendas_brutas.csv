@@ -1,0 +1,11 @@
+Data,ID_Venda,Produto,Categoria,Quantidade,Valor_Unitario
+2026-04-15,1001,Camiseta Basica,Vestuario,3,49.90
+2026-04-15,1002,Calca Jeans,Vestuario,1,119.90
+2026-04-16,1003,Tenis Esportivo,Calcados,2,249.50
+2026-04-16,1004,Mochila Escolar,Acessorios,1,89.90
+2026-04-17,1005,Camiseta Basica,Vestuario,5,49.90
+2026-04-17,1006,Jaqueta Corta Vento,Vestuario,1,189.90
+2026-04-18,1007,Bone,Acessorios,4,35.00
+2026-04-19,1008,Tenis Casual,Calcados,1,159.90
+2026-04-19,1009,Meia Cano Alto,Vestuario,10,15.50
+2026-04-20,1010,Mochila Escolar,Acessorios,2,89.90
