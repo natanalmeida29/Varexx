@@ -142,4 +142,4 @@ Este projeto pode ser usado como:
 
 ## Autor
 
-Projeto desenvolvido por ACER como parte de aprendizado e aplicacao pratica de Python, analise de dados e visualizacao executiva.
+Projeto desenvolvido por Natan Almeida Albuquerque como parte de aprendizado e aplicacao pratica de Python, analise de dados e visualizacao executiva. Na data de 29/04/2026
